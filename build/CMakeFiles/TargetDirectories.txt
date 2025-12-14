@@ -1,0 +1,10 @@
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/uninstall.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/lane_tracker_uninstall.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/object_avoider.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/test.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/edit_cache.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/rebuild_cache.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/list_install_components.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/install.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/install/local.dir
+/home/ajr/ros2_ws/lane_tracker/build/CMakeFiles/install/strip.dir
