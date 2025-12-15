@@ -45,7 +45,7 @@ colcon build --packages-select lane_tracker
 ```
 
 <details>
-<summary>ℹ️ <b>Ne felejtsd el forrásolni a workspace-t a ROS parancsok előtt!</b></summary>
+<summary>ℹ️ <b>Ne felejtsd el sourceolni a workspace-t a ROS parancsok előtt!</b></summary>
 
 ```bash
 source install/setup.bash
