@@ -26,16 +26,6 @@ A futtatáshoz az alábbi környezet szükséges:
 - Ignition Gazebo Fortress
 - ros_gz_bridge (A ROS 2 és Gazebo kommunikációjához)
 
-Függőségek telepítése (példa):
-
-```bash
-sudo apt-get update
-sudo apt-get install ros-humble-ros-gz
-sudo apt-get install ros-humble-xacro ros-humble-joint-state-publisher
-```
-
----
-
 ## Csomagok és build
 
 > Megjegyzés: A workspace könyvtárad legyen `~/ros2_ws/`.
@@ -58,7 +48,7 @@ colcon build --packages-select lane_tracker
 <summary>ℹ️ <b>Ne felejtsd el forrásolni a workspace-t a ROS parancsok előtt!</b></summary>
 
 ```bash
-source ~/ros2_ws/install/setup.bash
+source install/setup.bash
 ```
 </details>
 
@@ -72,14 +62,14 @@ Példa indítás:
 
 ```bash
 # Sourcing után indítsd a launch fájlt
-source ~/ros2_ws/install/setup.bash
-ros2 launch lane_tracker lane_tracker.launch.py
+source install/setup.bash
+ros2 launch lane_tracker lane_tracker_launch.py
 ```
 
 Paraméterek átadása a launch-nak:
 
 ```bash
-ros2 launch lane_tracker lane_tracker.launch.py
+ros2 launch lane_tracker lane_tracker_launch.py
 ```
 
 A launch fájl elindítja:
