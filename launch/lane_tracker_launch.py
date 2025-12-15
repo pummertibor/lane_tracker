@@ -6,7 +6,7 @@ Ez a launch fájl indítja el a komplett szimulációs rendszert:
 2. ROS-Gazebo bridge-et a topic kommunikációhoz
 3. ObjectAvoider csomópontot az autonóm vezetéshez
 
-Az akadálykerülés és cliff-detekció a konszolon nyomott üzenetek formájában jelenik meg.
+Az akadálykerülés és cliff-detekció a konzolon nyomott üzenetek formájában jelenik meg.
 """
 
 import os
