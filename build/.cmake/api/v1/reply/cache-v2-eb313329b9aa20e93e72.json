@@ -8871,7 +8871,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_cpp.so"
+			"value" : "/opt/ros/humble/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_cpp.so"
 		},
 		{
 			"name" : "ament_cmake_DIR",
@@ -10492,6 +10492,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/opt/ros/humble/share/tracetools/cmake"
+		},
+		{
+			"name" : "visualization_msgs_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for visualization_msgs."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/opt/ros/humble/share/visualization_msgs/cmake"
 		},
 		{
 			"name" : "xmllint_BIN",

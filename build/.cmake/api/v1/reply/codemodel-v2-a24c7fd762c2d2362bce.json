@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-a6632885933f70670569.json",
+					"jsonFile" : "directory-.-Debug-a5b02adb7b801a6c471d.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -51,7 +51,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "object_avoider::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-object_avoider-Debug-53e6f242cf76b8a92e6c.json",
+					"jsonFile" : "target-object_avoider-Debug-1709863e9e83fa936082.json",
 					"name" : "object_avoider",
 					"projectIndex" : 0
 				},
